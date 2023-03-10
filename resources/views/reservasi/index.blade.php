@@ -13,7 +13,7 @@
                           <div class="table-title">
                               <div class="row">
                                   <div class="col-sm-12">
-                                      <h2>Manage <b>Employees</b></h2>
+                                      <h2>Manage <b>Reservasi</b></h2>
                                   </div>
                                   <div class="col-sm-12">
                                       <a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal"><span>Reservasi Sekarang!</span></a>
